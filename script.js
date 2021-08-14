@@ -4,7 +4,7 @@ function clearScreen()
     document.getElementById("result").value = "";
 }
    
-//Display
+//Display Function
 function display(value) 
 {
     document.getElementById("result").value += value;
