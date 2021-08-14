@@ -7,3 +7,5 @@ I'm expecting to get experience in the following basic concepts:
 * Javascript
 
 Here you can see, Live Demo: https://foyjul-islam-raju.github.io/Simple-Calculator/
+
+Feel free to check out the code and don't forget to star the repo.
