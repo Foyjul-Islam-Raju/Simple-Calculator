@@ -1,0 +1,51 @@
+*{
+    margin: 1;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: rgb(40, 42, 46);
+}
+
+.calculator{
+    margin: 0 auto;
+    width: 335px;
+    height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px 0 rgba(216, 5, 5, 0);
+    transition: 0.3s;
+    font-size: 0;
+}
+
+.display-box{
+    font-family: Comic Sans MS;
+    background-color: rgb(138, 150, 145);
+    width: 254px;
+    height: 75px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    text-align: right;
+    padding: 0 3px;
+    letter-spacing: 2px;
+}
+
+.button{
+    width: 87px;
+    height: 80px;
+    font-size: 16px;
+    background-color: #1f2326;
+    font-family: Comic Sans MS;
+    color: rgb(255, 255, 255);
+}
+
+.button:hover{
+    background-color: rgb(150, 6, 42);
+}
+
